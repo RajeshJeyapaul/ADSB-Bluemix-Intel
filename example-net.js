@@ -1,8 +1,8 @@
 var adsb = require('./lib/adsb.js');
 var net = require('net');
 
-// Config
-var host = '192.168.1.144';
+// Config..modify it with the IP address assigned to Edison (ifconfig)
+var host = '192.168.1.4';
 var port = 30002;
 
 // Connect to our datasource and start processing incoming data
