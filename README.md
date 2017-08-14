@@ -1,5 +1,3 @@
-#Rajesh K Jeyapaul, jrkumar@in.ibm.com
-
 ##
 Intel Edison and Bluemix Powered Air Traffic Ground station
 ===========================================================
@@ -13,7 +11,7 @@ Device specification: NooElec - RB20T2 SDR & DVB-T (NESDR Mini 2)
 
 Step 2: **Connect the device to Intel**
 ---------------------------------------
-* (a) COnnect to the power source as shown in the picture
+* (a) Connect to the power source as shown in the picture.Notice the red circle showing the switch position
 * (b) Connect to the Intel Edison device with the ip address assigned to it. Refer relevant documents on how to connect to Edison.
 ![20170814_171935](https://user-images.githubusercontent.com/7920214/29274115-496b350a-8124-11e7-9e6b-f418c646ebb0.jpg)
 
@@ -85,3 +83,5 @@ https://github.com/ibm/air-traffic-control
 what next ?
 ##
 Moving this data to Bluemix cloud. Will be updated soon
+#
+#Rajesh K Jeyapaul, jrkumar@in.ibm.com
