@@ -1,8 +1,7 @@
 ##
 Intel Edison and Bluemix Powered Air Traffic Ground station
 ===========================================================
-Note: Most of the work around this done using RasperryPi. When I tried with Intel Edison,faced some challneges.Documenting
-the same for a quick integration with Intel Edison and IBM Bluemix.
+Note: Most of the work around this is done using RasperryPi. Some of the challenges with Intel Edison is addressed here
 > ##
 Step 1: **Understand the Hardware Device**
 -----------------------------------------
